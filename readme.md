@@ -2,11 +2,7 @@
 
 bootstrap-vue-admin : admin management system template based on vue + bootstrap-vue + vue-router + jquery
 
-## 开发环境
-
-vue-cli version `vue -V` 3.2.3
-
-> install && run
+## install && run
 
 ```base
 
@@ -16,7 +12,22 @@ cd bootstrap-vue-admin
 
 npm install
 
+# vue cli v3
 npm run serve
+
+```
+
+## 开发环境
+
+vue-cli version 3.2.3
+
+```bash
+
+# cli v3
+sudo npm install -g @vue/cli
+
+# cli v2
+sudo npm install -g @vue/cli-init
 
 ```
 
@@ -57,6 +68,10 @@ Password : password
 > mobile-phone
 
 ![mobile-phone.png](public/readme/mobile-phone.png)
+
+> icon
+
+![mobile-phone.png](public/readme/icon.png)
 
 ## License
 
